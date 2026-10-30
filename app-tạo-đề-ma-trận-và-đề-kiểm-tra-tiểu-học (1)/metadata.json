@@ -1,0 +1,6 @@
+{
+  "name": "APP TẠO ĐỀ MA TRẬN VÀ ĐỀ KIỂM TRA TIỂU HỌC",
+  "description": "Ứng dụng chuyên nghiệp tạo Ma trận, Bản đặc tả, Đề kiểm tra và Hướng dẫn chấm chuẩn GDPT 2018 - Thông tư 27 cho học sinh tiểu học (Lớp 1-5, Bộ sách Kết nối tri thức).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
